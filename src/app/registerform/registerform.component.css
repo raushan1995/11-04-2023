@@ -1,0 +1,17 @@
+.content{
+    max-width: 500px;
+    margin: auto;
+    background-image: url("../../assets/pexels-thisisengineering-3861964.jpg");
+    
+    text-align: center;
+    padding: 3% 1%;
+}
+.error{
+    color: red;
+}
+.mt-3{
+    background-image: url("../../assets/pexels-thisisengineering-3861964.jpg");
+    background-size: 700px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
